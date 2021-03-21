@@ -3,8 +3,8 @@ author: Simone Pelosi # name of site's author
 email: simo.pelo94@gmail.com # email of site's author
 url: simonepelosi.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
-  Simone Pelosi portfolio.
+description: "Simone Pelosi portfolio." # description of the site (multiple lines allowed)
+  
 
 permalink: /:slug.html
 
