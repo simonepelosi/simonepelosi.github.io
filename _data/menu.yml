@@ -7,27 +7,31 @@ entries:
   - title: p5js
     post_list:
       limit: 5
+      category: p5js
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
   - title: machine learning
     post_list:
-      category: example2
+      limit: 5
+      category: ml
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
   - title: games
     post_list:
-      category: example2
+      limit: 5  
+      category: games
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
       
   - title: photos
     post_list:
-      category: example2
+      limit: 5
+      category: photos
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
