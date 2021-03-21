@@ -23,3 +23,5 @@ I won the silver medal on kaggle's competition using the presented approach.
 <img src="PREDICTIONS_EX.png" title="Predictions example">
 
 ---
+
+<a href ="https://drive.google.com/file/d/1_KZNVUnvR3nLEgQB7_M46aQFOJtuqMpr/view?usp=sharing"> Full paper </a>
