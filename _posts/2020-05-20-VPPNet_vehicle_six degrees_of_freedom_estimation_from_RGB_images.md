@@ -13,6 +13,6 @@ The model, called VPPNet that stands for Vehicle Pose Pyramidal Network, starts 
 I won the silver medal on kaggle's competition using the presented approach. 
 
 
-<img src="TesiNet.jpg" title="Net overview">
-<img src="PREDICTIONS_EX.png" title="Predictions example">
+<img src="/TesiNet.jpg" title="Net overview">
+<img src="/PREDICTIONS_EX.png" title="Predictions example">
 
