@@ -14,10 +14,12 @@ I won the silver medal on kaggle's competition using the presented approach.
 
 ---
 
+## Net overview
 <img src="TesiNet.jpg" title="Net overview">
 
 ---
 
+## Predictions example
 <img src="PREDICTIONS_EX.png" title="Predictions example">
 
 ---
