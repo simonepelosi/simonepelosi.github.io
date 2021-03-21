@@ -3,7 +3,7 @@ layout: post
 category: ml
 ---
 
-#Abstract
+# Abstract
 
 A conceptually simple framework for six degrees of freedom (6DoF)
 object pose estimation, especially for autonomous driving
