@@ -1,5 +1,6 @@
 ---
 layout: post
+category: p5js
 ---
 
 Circles experiment
