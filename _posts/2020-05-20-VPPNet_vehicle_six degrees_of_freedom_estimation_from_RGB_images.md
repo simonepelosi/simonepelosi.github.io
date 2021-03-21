@@ -16,7 +16,7 @@ The model, called VPPNet that stands for Vehicle Pose Pyramidal Network, starts 
 
 I won the silver medal on kaggle's competition using the presented approach. 
 
-Full paper <a href ="https://drive.google.com/file/d/1_KZNVUnvR3nLEgQB7_M46aQFOJtuqMpr/view?usp=sharing"> here </a>.
+Full paper <a href ="https://drive.google.com/file/d/1_KZNVUnvR3nLEgQB7_M46aQFOJtuqMpr/view?usp=sharing"> here</a>.
 
 ---
 
